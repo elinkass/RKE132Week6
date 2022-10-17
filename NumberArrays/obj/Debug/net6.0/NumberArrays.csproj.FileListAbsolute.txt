@@ -1,0 +1,15 @@
+/Users/elinkass/Projects/Week6/NumberArrays/obj/Debug/net6.0/NumberArrays.csproj.AssemblyReference.cache
+/Users/elinkass/Projects/Week6/NumberArrays/obj/Debug/net6.0/NumberArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elinkass/Projects/Week6/NumberArrays/obj/Debug/net6.0/NumberArrays.AssemblyInfoInputs.cache
+/Users/elinkass/Projects/Week6/NumberArrays/obj/Debug/net6.0/NumberArrays.AssemblyInfo.cs
+/Users/elinkass/Projects/Week6/NumberArrays/obj/Debug/net6.0/NumberArrays.csproj.CoreCompileInputs.cache
+/Users/elinkass/Projects/Week6/NumberArrays/bin/Debug/net6.0/NumberArrays
+/Users/elinkass/Projects/Week6/NumberArrays/bin/Debug/net6.0/NumberArrays.deps.json
+/Users/elinkass/Projects/Week6/NumberArrays/bin/Debug/net6.0/NumberArrays.runtimeconfig.json
+/Users/elinkass/Projects/Week6/NumberArrays/bin/Debug/net6.0/NumberArrays.dll
+/Users/elinkass/Projects/Week6/NumberArrays/bin/Debug/net6.0/NumberArrays.pdb
+/Users/elinkass/Projects/Week6/NumberArrays/obj/Debug/net6.0/NumberArrays.dll
+/Users/elinkass/Projects/Week6/NumberArrays/obj/Debug/net6.0/refint/NumberArrays.dll
+/Users/elinkass/Projects/Week6/NumberArrays/obj/Debug/net6.0/NumberArrays.pdb
+/Users/elinkass/Projects/Week6/NumberArrays/obj/Debug/net6.0/NumberArrays.genruntimeconfig.cache
+/Users/elinkass/Projects/Week6/NumberArrays/obj/Debug/net6.0/ref/NumberArrays.dll

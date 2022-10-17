@@ -1,0 +1,15 @@
+/Users/elinkass/Projects/Week6/RandomElement/obj/Debug/net6.0/RandomElement.csproj.AssemblyReference.cache
+/Users/elinkass/Projects/Week6/RandomElement/obj/Debug/net6.0/RandomElement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elinkass/Projects/Week6/RandomElement/obj/Debug/net6.0/RandomElement.AssemblyInfoInputs.cache
+/Users/elinkass/Projects/Week6/RandomElement/obj/Debug/net6.0/RandomElement.AssemblyInfo.cs
+/Users/elinkass/Projects/Week6/RandomElement/obj/Debug/net6.0/RandomElement.csproj.CoreCompileInputs.cache
+/Users/elinkass/Projects/Week6/RandomElement/bin/Debug/net6.0/RandomElement
+/Users/elinkass/Projects/Week6/RandomElement/bin/Debug/net6.0/RandomElement.deps.json
+/Users/elinkass/Projects/Week6/RandomElement/bin/Debug/net6.0/RandomElement.runtimeconfig.json
+/Users/elinkass/Projects/Week6/RandomElement/bin/Debug/net6.0/RandomElement.dll
+/Users/elinkass/Projects/Week6/RandomElement/bin/Debug/net6.0/RandomElement.pdb
+/Users/elinkass/Projects/Week6/RandomElement/obj/Debug/net6.0/RandomElement.dll
+/Users/elinkass/Projects/Week6/RandomElement/obj/Debug/net6.0/refint/RandomElement.dll
+/Users/elinkass/Projects/Week6/RandomElement/obj/Debug/net6.0/RandomElement.pdb
+/Users/elinkass/Projects/Week6/RandomElement/obj/Debug/net6.0/RandomElement.genruntimeconfig.cache
+/Users/elinkass/Projects/Week6/RandomElement/obj/Debug/net6.0/ref/RandomElement.dll

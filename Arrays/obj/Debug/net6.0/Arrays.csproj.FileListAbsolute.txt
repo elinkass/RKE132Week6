@@ -1,0 +1,15 @@
+/Users/elinkass/Projects/Week6/Arrays/bin/Debug/net6.0/Arrays
+/Users/elinkass/Projects/Week6/Arrays/bin/Debug/net6.0/Arrays.deps.json
+/Users/elinkass/Projects/Week6/Arrays/bin/Debug/net6.0/Arrays.runtimeconfig.json
+/Users/elinkass/Projects/Week6/Arrays/bin/Debug/net6.0/Arrays.dll
+/Users/elinkass/Projects/Week6/Arrays/bin/Debug/net6.0/Arrays.pdb
+/Users/elinkass/Projects/Week6/Arrays/obj/Debug/net6.0/Arrays.csproj.AssemblyReference.cache
+/Users/elinkass/Projects/Week6/Arrays/obj/Debug/net6.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elinkass/Projects/Week6/Arrays/obj/Debug/net6.0/Arrays.AssemblyInfoInputs.cache
+/Users/elinkass/Projects/Week6/Arrays/obj/Debug/net6.0/Arrays.AssemblyInfo.cs
+/Users/elinkass/Projects/Week6/Arrays/obj/Debug/net6.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/elinkass/Projects/Week6/Arrays/obj/Debug/net6.0/Arrays.dll
+/Users/elinkass/Projects/Week6/Arrays/obj/Debug/net6.0/refint/Arrays.dll
+/Users/elinkass/Projects/Week6/Arrays/obj/Debug/net6.0/Arrays.pdb
+/Users/elinkass/Projects/Week6/Arrays/obj/Debug/net6.0/Arrays.genruntimeconfig.cache
+/Users/elinkass/Projects/Week6/Arrays/obj/Debug/net6.0/ref/Arrays.dll
